@@ -1,0 +1,9 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+-O git insee os arquivos de metadata na pasta .git
+-Isso é necessário para que o git saiba que este repositório será versionado
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+-área de preparação é tudo o que deve ir para um commit
+-diretório de trabalho é a pasta em que o trabalho atual está armazenado
+-repositório e o container de todos os commits e versões do projeto
+-A diferença é importante para o fluxo de trabalho

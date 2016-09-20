@@ -1,0 +1,28 @@
+Como visualizar a diferença entre duas versões de um arquivo pode ajudá-lo a ver o bug que foi introduzido?
+-Através da visualização clara da diferença entre duas linhas de código, posso identificar facilmente o que foi alterado e onde o bug foi introduzido.
+
+Como ter acesso ao histórico de um arquivo pode ajudá-lo a ser um programador mais eficiente a longo prazo?
+-O histórico documenta as etapas do desenvolvimento
+-Pode-se revisitar versões antigas em busca de correção de bugs e reativação de ferramentas que foram abandonadas em versões posteriores
+
+Quais os prós e contras de commits manuais quando comparados a commits automáticos?
+-Pro: Controle de quando o commit é relevante
+-Pro: Se bem usado, evita-se um volume muito grande de commits ou commits de versões inconsistentes
+-Pro: Atruibuir mensagens aos commits
+-Pro: Estruturação lógica de cada uma das versões
+-Con: A decisão de commit fica a julgamento do usuário e não segue um padrão
+
+Por que o GIT permite salvar multiplos arquivos em um único commit e outros tipos de versionamento, não?
+-O git tem enfoque em programação que é uma situação em que alterações de código comunmente afetam mais de uma rquivo
+
+Como você pode usar os comandos git log e git diff para ver o histórico de arquivos?
+-Primeiro uso o git log para ver todos os commits
+-Depois uso o git diff para comparar o commit que me interessa com o commit anterior
+
+De que modo o controle de versão pode dar a você mais egurança para fazer alterações que podem danificar o algo?
+-Me permitindo voltar a versões anteriores onde esse dano não existia
+
+Agora que você já configurou a sua área de trabalho, você quer usar o seu git pra que?
+-Para ter mais agilidade e melhor controle no desenvolvimento
+
+

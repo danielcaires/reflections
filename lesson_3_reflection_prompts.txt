@@ -1,0 +1,4 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+-Quando for desenvolver colaborativamente
+-Quando quiser compartilhar meu projeto
+-Quando quiser acessar meu repositório de diferentes computadores
